@@ -5,3 +5,9 @@ Curso de Extensão IoT na prática para iniciantes
 <img src="piscapisca.png">
 
 <a href="piscapisca.ino">Clique aqui para o código</a>
+
+
+
+
+3) Projeto Sensor de Movimento com Buzzer
+No TinkerCad, crie o circulo conforme figura abaixo
