@@ -7,6 +7,15 @@ Curso de Extensão IoT na prática para iniciantes
 <a href="piscapisca.ino">Clique aqui para o código</a>
 
 
+2) Projeto Fotorresistor com Leds Verde e Vermelho<br>
+No TinkerCad, crie o circulo conforme figura abaixo:<br>
+<img src="ExemploComFotoResistorELeds - Eletrônica.jpg"><br>
+<br>
+Na programação em blocos, faça assim:<br>
+<img src="ExemploComFotoResistorELeds - Programação em Blocos.jpg"><br>
+<br>
+<a href="exemploComSensorDeMovimentoEBuzzer.ino">Clique aqui para o código</a>
+
 
 
 3) Projeto Sensor de Movimento com Buzzer<br>
