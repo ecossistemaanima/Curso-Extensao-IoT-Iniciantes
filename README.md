@@ -10,4 +10,8 @@ Curso de Extensão IoT na prática para iniciantes
 
 
 3) Projeto Sensor de Movimento com Buzzer
-No TinkerCad, crie o circulo conforme figura abaixo
+No TinkerCad, crie o circulo conforme figura abaixo:
+<img src="exemploComSensorDeMovimentoEBuzzer - eletrônica.jpg">
+
+Na programação em blocos, faça assim:
+<img src="exemploComSensorDeMovimentoEBuzzer - códigoEmBloco.jpg">
