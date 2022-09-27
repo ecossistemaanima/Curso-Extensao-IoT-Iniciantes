@@ -1,4 +1,4 @@
-# Curso-Extens-o-IoT-Iniciantes
+# Curso-Extensao-IoT-Iniciantes
 Curso de Extensão IoT na prática para iniciantes
 <br><br><br>
 <b>Sumário</b><br><br>
